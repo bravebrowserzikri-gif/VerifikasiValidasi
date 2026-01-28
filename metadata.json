@@ -1,0 +1,7 @@
+{
+  "name": "Bapenda Kampar Tax Arrears Validator Final Versi 22 01 26Desktop.Exe",
+  "description": "A high-precision desktop-class data extraction tool for regional tax records using Gemini AI Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
